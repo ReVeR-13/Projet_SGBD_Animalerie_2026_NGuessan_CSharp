@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AppAnimalerie.ClasseMetier.Adoption">
+    <Position X="2.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gAQCAIDEAAAAACCEBAVAEAAQABEAEAAABAAgAEAAIAA=</HashCode>
+      <FileName>ClasseMetier\Adoption.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AppAnimalerie.ClasseMetier.AllAdoption" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>IAIAAAAAAAAQAEBAAAAABASABAAIQAAAAAACAAAAAAA=</HashCode>
+      <FileName>ClasseMetier\Adoption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppAnimalerie.ClasseMetier.AllCompatibilite" Collapsed="true">
+    <Position X="13.75" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>IAIAAAAAAAAQAAJAAAABBASABAAIQQAAAEAAAAAAAAA=</HashCode>
+      <FileName>ClasseMetier\Compatibilite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppAnimalerie.ClasseMetier.AllDemande" Collapsed="true">
+    <Position X="13.75" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>IAIAAAAAAAASAEBAAAAARCSCBACIQAAAAAAIAAACAAA=</HashCode>
+      <FileName>ClasseMetier\Demande.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppAnimalerie.ClasseMetier.Demande">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gAQCAIAMAIAABCSECABAEAAAQAEAAAAAIQCAAAAAMBA=</HashCode>
+      <FileName>ClasseMetier\Demande.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AppAnimalerie.ClasseMetier.Animal">
+    <Position X="9.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BAQGKoAMAAAoiBcMBChIEAggBSMxgAABAQAAsAAUoAE=</HashCode>
+      <FileName>ClasseMetier\Animal.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AppAnimalerie.ClasseMetier.Sortie">
+    <Position X="7.25" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BAQCIIAAAAAAACSEAABAEAAAAAEAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClasseMetier\Mouvement.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AppAnimalerie.ClasseMetier.Entree">
+    <Position X="7.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BAQCIIAAAAAAACSEAABAEAAAAAEAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClasseMetier\Mouvement.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AppAnimalerie.ClasseMetier.Compatibilite">
+    <Position X="11.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAIAAAAABAAQEBABAEAAABCEAAACAAAAAAAAAIAA=</HashCode>
+      <FileName>ClasseMetier\Compatibilite.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AppAnimalerie.ClasseMetier.Accueil">
+    <Position X="5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>iAQCAICEAAAAADSEBAFAEAAAAgEAkAAAhAAoAEAAIAA=</HashCode>
+      <FileName>ClasseMetier\Accueil.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AppAnimalerie.ClasseMetier.Mouvement" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAABACAEBAAAAAAAAAAAAACAAAAAAAAAIAA=</HashCode>
+      <FileName>ClasseMetier\Mouvement.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AppAnimalerie.ClasseMetier.AnimalCompatibilité">
+    <Position X="13.75" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQCAYCAAAAAAAQEBBRAEAAAAAMAAAAAIAAAgAAAMAA=</HashCode>
+      <FileName>ClasseMetier\AnimalCompatibilité.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppAnimalerie.ClasseMetier.AllContacts" Collapsed="true">
+    <Position X="13.75" Y="2" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>IAJAAAAAAAAUAABAAAAABASAAAAMQAAAAAACAAAAAAA=</HashCode>
+      <FileName>ClasseMetier\Contact.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
